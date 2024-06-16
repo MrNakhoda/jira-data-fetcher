@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# jira-data-fetcher
-=======
-
 # JIRA Data Fetcher
 
 This script connects to a JIRA server, retrieves information about boards, sprints, and issues, and exports the data to an Excel file. The script also calculates the total work time for each assignee in each sprint.
@@ -65,4 +61,3 @@ Additionally, the total time spent by each assignee in each sprint will be calcu
 ## Contact
 
 If you encounter any issues or have any questions, please contact me at [nakhoda.id@gmail.com].
->>>>>>> 1269f1b (Add README.md)

@@ -23,9 +23,9 @@ def seconds_to_workday_time(seconds):
     return result.strip()
 
 # JIRA user information and URL
-jira_server = 'https://jira.maahdima.com:8085'
-jira_user = 'amin'
-jira_password = 'Amin222'
+jira_server = 'https://domainname.com:8085'
+jira_user = 'your_username'
+jira_password = 'your_password'
 
 # Connect to JIRA
 options = {'server': jira_server}
